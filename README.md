@@ -1,6 +1,8 @@
 # BASIC-C-PLUS-PLUS--TASKS
 These are some basic c++ tasks like hi-lo game or the problems to code without using loops 
 
+If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
+
 # Problem 1:
 20 years ago, FAST Islamabad campus used to store student’s CNIC numbers only, to uniquely identify them. The administration decided that they should expand its information-keeping facilities, and store other information about the students as well, such as their gender, the province, division, tehsil, and union council they belong to, and their family number.
 
