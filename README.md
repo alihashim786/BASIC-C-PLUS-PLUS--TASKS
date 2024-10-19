@@ -4,7 +4,6 @@ These are some basic c++ tasks like hi-lo game or the problems to code without u
 # Problem 1:
 20 years ago, FAST Islamabad campus used to store student’s CNIC numbers only, to uniquely identify them. The administration decided that they should expand its information-keeping facilities, and store other information about the students as well, such as their gender, the province, division, tehsil, and union council they belong to, and their family number.
 
-![Alt Text](D:\Github Uploaded)
 
 Your task is to write a C++ Program which inputs a CNIC number, and a string name of the student. Your program will separate the relevant info and print the information in the following manner:
 
