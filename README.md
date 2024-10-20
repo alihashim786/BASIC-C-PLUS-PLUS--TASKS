@@ -15,15 +15,15 @@ Your task is to write a C++ Program which inputs a CNIC number, and a string nam
 
 **Example:**
 
-Enter Name of Student: Hamza
-Enter ID of Student: 6110166903075
-Gender of Hamza is: Male
-Province of Hamza is: Islamabad
-Division of Hamza is: Islamabad-1
-District of Hamza is: Islamabad-1
-Tehsil of Hamza is: Islamabad-1
-Union Council of Hamza is: Islamabad-1
-Family Tree of Hamza is: 6690307
+    Enter Name of Student: Hamza
+    Enter ID of Student: 6110166903075
+    Gender of Hamza is: Male
+    Province of Hamza is: Islamabad
+    Division of Hamza is: Islamabad-1
+    District of Hamza is: Islamabad-1
+    Tehsil of Hamza is: Islamabad-1
+    Union Council of Hamza is: Islamabad-1
+    Family Tree of Hamza is: 6690307
 
 
 ---
